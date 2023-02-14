@@ -40,7 +40,8 @@
 
       git checkout branch_name
 
+### чтобы удалить ветку нужно ввести команду.
 
-###
+      git branch -d branch_name
 ###
 ###
