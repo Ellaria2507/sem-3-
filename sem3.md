@@ -36,7 +36,9 @@
 
       git branch branch_name
 
-###
+### чтобы переключиться на другую ветку нужно ввести команду.
+
+      git checkout branch_name
 
 
 ###
